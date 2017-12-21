@@ -11,7 +11,7 @@ public class MainActivity extends AppCompatActivity {
      *Variable declaration of ArcSeekBar
      * Start
      */
-//    ArcSeekBar gradientSeekbar;
+    ArcSeekBar gradientSeek;
 
     /**
      *Variable declaration of ArcSeekBar
@@ -27,10 +27,10 @@ public class MainActivity extends AppCompatActivity {
          * Start
          */
 
-//        gradientSeekbar = (ArcSeekBar) findViewById(R.id.gradientSeekbar);
-//
-//        int[] colorArray = getResources().getIntArray(R.array.gradient);
-//        gradientSeekbar.setProgressGradient(colorArray);
+        gradientSeek = (ArcSeekBar) findViewById(R.id.gradientSeekbar);
+
+        int[] colorArray = getResources().getIntArray(R.array.gradient);
+        gradientSeek.setProgressGradient(colorArray);
 
         /**
          *ArcSeekBar Code
