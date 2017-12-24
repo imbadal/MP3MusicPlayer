@@ -3,9 +3,11 @@ package com.example.my_lenovo.mp3musicplayer;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+
 import com.marcinmoskala.arcseekbar.ArcSeekBar;
 
 public class MainActivity extends AppCompatActivity {
+
 
     /**
      *Variable declaration of ArcSeekBar
@@ -37,6 +39,10 @@ public class MainActivity extends AppCompatActivity {
          * End
          */
 
+
+
     }
+
+
 
 }

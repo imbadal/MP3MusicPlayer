@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">MP3 Music Player</string>
+    <string name="Songs">Songs</string>
+    <string name="favourite">Favourite</string>
+    <string name="equalizer">Equalizer</string>
+    <string name="setting">Setting</string>
+    <string name="share">Share</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="about_us">About Us</string>
+    <string name="exit">Exit</string>
 </resources>
