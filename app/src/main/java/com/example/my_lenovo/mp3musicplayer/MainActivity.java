@@ -1,10 +1,12 @@
 package com.example.my_lenovo.mp3musicplayer;
 
+import android.graphics.Color;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
 
 import com.marcinmoskala.arcseekbar.ArcSeekBar;
+import com.sdsmdg.harjot.crollerTest.Croller;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -42,7 +44,6 @@ public class MainActivity extends AppCompatActivity {
 
 
     }
-
 
 
 }
