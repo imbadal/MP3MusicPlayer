@@ -14,7 +14,8 @@
         android:layout_height="100dp"
         android:layout_marginBottom="16dp"
         app:layout_constraintBottom_toBottomOf="parent"
-        tools:layout_editor_absoluteX="0dp">
+        tools:layout_editor_absoluteX="0dp"
+        tools:ignore="MissingConstraints">
 
         <ImageView
             android:id="@+id/play_pause"
@@ -84,7 +85,7 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
-            app:progressWidth="10dp"
+            app:progressWidth="5dp"
             app:roundEdges="true" />
 
         <ImageView
