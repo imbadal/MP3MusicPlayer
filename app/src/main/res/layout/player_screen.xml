@@ -163,7 +163,7 @@
         tools:ignore="InvalidId">
 
         <ImageView
-            android:id="@+id/imageView6"
+            android:id="@+id/minimize"
             android:layout_width="30dp"
             android:layout_height="30dp"
             android:layout_marginEnd="8dp"
@@ -181,7 +181,7 @@
             android:layout_marginEnd="8dp"
             android:layout_marginStart="8dp"
             android:layout_marginTop="16dp"
-            app:layout_constraintEnd_toStartOf="@+id/imageView6"
+            app:layout_constraintEnd_toStartOf="@+id/minimize"
             app:layout_constraintStart_toEndOf="@+id/favourite"
             app:layout_constraintTop_toTopOf="parent"
             app:srcCompat="@drawable/ic_shuffle_white_48dp" />
